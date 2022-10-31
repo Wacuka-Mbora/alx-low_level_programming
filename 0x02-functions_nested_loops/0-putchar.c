@@ -1,4 +1,4 @@
-#include "main.h"
+#include "putchar.h"
 
 /**
  * main - Print the word "_putchar"
@@ -16,4 +16,5 @@ int main(void)
 		}
 	_putchar('\n');
 	return (0);
+
 }
